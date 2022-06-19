@@ -5,7 +5,7 @@ apps.csv: contains all the details of the apps on Google Play. These are the fea
 
 user_reviews.csv: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score.
 
-#Project Tasks
+# Project taskes
 1. Google Play Store apps and reviews
 2. Data cleaning
 3. Correcting data types
